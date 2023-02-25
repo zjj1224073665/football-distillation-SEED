@@ -1,0 +1,6 @@
+torch
+tensorboardX
+matplotlib
+gfootball
+geomloss
+numpy
