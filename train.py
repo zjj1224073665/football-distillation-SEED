@@ -128,7 +128,7 @@ if __name__ == '__main__':
         "model": "conv1d",
         "algorithm": "distillation",
         "work_mode": "learner",
-        "sam_path": "bot/model_sam.tar",
+        "sam_path": "bot/model_mentor_alpha.tar",
 
     }
 
